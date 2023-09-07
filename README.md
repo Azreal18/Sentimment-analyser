@@ -10,3 +10,7 @@ Technologies used in the project:
 
 *   Python installed on your computer (version 3.9 or higher) 🐍
 *   nltk ==3.8.1
+
+<h2>💖Like my work?</h2>
+
+Would love to connect with Like minded people and learn more.
